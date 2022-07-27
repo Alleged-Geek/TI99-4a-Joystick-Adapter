@@ -6,7 +6,7 @@ Here is my PCB design for a Joystick adapter to allow play with standard Atari s
 
 You can find the STL files for my 3D printed housing on my Thingiverse.
 
-TI99-4a Joystick Adapter Housing by alleged_geek - Thingiverse
+https://www.thingiverse.com/thing:5442911
 
 I have included pictures of all parts required for the build.
 
